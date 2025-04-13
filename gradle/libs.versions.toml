@@ -1,9 +1,9 @@
 [versions]
 
-kotlin = "2.1.20"
+jvm-dependency-conflict-resolution = "2.1.2"
 
 [libraries]
 
-[libraries.kotlin-gradle-plugin-dependency]
-module = "org.jetbrains.kotlin:kotlin-gradle-plugin"
-version.ref = "kotlin"
+[libraries.jvm-dependency-conflict-resolution-gradle-plugin-dependency]
+module = "org.gradlex:jvm-dependency-conflict-resolution"
+version.ref = "jvm-dependency-conflict-resolution"

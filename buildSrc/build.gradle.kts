@@ -7,5 +7,5 @@ kotlin {
 }
 
 dependencies {
-    implementation(libs.kotlin.gradle.plugin.dependency)
+    implementation(libs.jvm.dependency.conflict.resolution.gradle.plugin.dependency)
 }
