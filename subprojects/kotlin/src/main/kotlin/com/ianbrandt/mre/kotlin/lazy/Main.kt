@@ -1,5 +1,5 @@
 package com.ianbrandt.mre.kotlin.lazy
 
 fun main() {
-    println("Hello, World!")
+    println("Hello, Kotlin!")
 }
