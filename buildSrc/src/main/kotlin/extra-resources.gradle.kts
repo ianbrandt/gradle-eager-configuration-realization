@@ -6,7 +6,7 @@ import org.gradle.api.artifacts.type.ArtifactTypeDefinition.JVM_RESOURCES_DIRECT
 @Suppress("UnstableApiUsage")
 configurations.consumable("extraElements") {
     logger.lifecycle(
-        "Kotlin Gradle Plugin project consumable configuration created:",
+        "Consumable configuration configure action invoked...",
         RuntimeException("Configuration realization stacktrace")
     )
 
