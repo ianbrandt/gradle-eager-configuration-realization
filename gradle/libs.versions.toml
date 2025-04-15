@@ -1,6 +1,6 @@
 [versions]
 
-jvm-dependency-conflict-resolution = "2.1.2"
+jvm-dependency-conflict-resolution = "2.2"
 
 [libraries]
 
